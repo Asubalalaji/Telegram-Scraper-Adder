@@ -1,5 +1,5 @@
 #!/bin/env python3
-# code by : Termux Professor
+# code by : Termux
 
 """
 
@@ -15,13 +15,13 @@ cy="\033[1;36m"
 def banner():
 	os.system('clear')
 	print(f"""
-	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐
-	{re}╚═╗{cy}├┤  │ │ │├─┘
-	{re}╚═╝{cy}└─┘ ┴ └─┘┴
+	{re}╔═╗{cy}┌┬┐┌┬┐┬ ┬┌─┐
+	{re}╚═╗{cy}│││  │ │ │├─┘
+	{re}╚═╝{cy} ┴ └─┘┴
 	
 	           Version : 1.01
-	{re}Subscribe Termux Professor on Youtube
-	{cy}www.youtube.com/c/TermuxProfessorYT
+	{re}OUTSIDEEE
+	{cy}this way
 	""")
 banner()
 print(gr+"[+] Installing requierments ...")
@@ -43,4 +43,4 @@ setup.close()
 print(gr+"[+] setup complete !")
 print(gr+"[+] now you can run any tool !")
 print(gr+"[+] make sure to read docs 4 installation & api setup")
-print(gr+"[+] https://github.com/termuxprofessor/TeleGram-Scraper-Adder/blob/master/README.md")
+print(gr+"[+] ONEMORECHANCE")
